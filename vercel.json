@@ -2,7 +2,7 @@
   "buildCommand": "bun run build",
   "outputDirectory": "dist",
   "framework": "vite",
-  "nodejs": "20.x",
+  
   "env": {
     "VITE_PUBLIC_API_URL": "@api_url"
   }
